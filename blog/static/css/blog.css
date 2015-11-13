@@ -24,6 +24,9 @@ p {
 	font-size: 16pt;
 }
 
+.comment {
+    margin: 20px 0px 20px 20px;
+}
 
 
 
@@ -55,6 +58,12 @@ p {
 	position: absolute; 
     top: 20px; 
     right: 40px;
+}
+
+.comm{
+	color: #A8A5A5;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 12pt;
 }
 
 .log{

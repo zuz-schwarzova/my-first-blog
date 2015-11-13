@@ -25,6 +25,8 @@ p {
 }
 
 
+
+
 .date {
     /* float: right; */
     color: #EDA1A1;
@@ -49,17 +51,25 @@ p {
 	padding: 0px 0px 30px; */
 	
 }
+.greet{
+	position: absolute; 
+    top: 20px; 
+    right: 40px;
+}
 
+.log{
+	color: #D1D1D1;
+}
 .draft{
 	position: absolute; 
-    top: 25px; 
-    right: 20px;
+    top: 100px; 
+    right: 145px;
 }
 
 .plus{
 	position: absolute; 
     top: 100px; 
-    right: 20px;
+    right: 40px;
 }
 
 .post {

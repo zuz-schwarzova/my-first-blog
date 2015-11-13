@@ -26,8 +26,10 @@ p {
 
 
 .date {
-    float: right;
+    /* float: right; */
     color: #EDA1A1;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 12pt;
 }
 
 
